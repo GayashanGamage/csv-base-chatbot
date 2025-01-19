@@ -2,6 +2,12 @@
 
 This is a simple Python script to chat with csv files and get output in your native language.
 
+## Features
+  1. select your own csv files
+  2. directly see the dataset inside of the command prompt
+  3. interect with your native language
+
+
 ## Getting Started
 
 1. **Clone the repository:**
@@ -43,7 +49,15 @@ This is a simple Python script to chat with csv files and get output in your nat
 
   type the option number that you want. sometimes you may get sub menus. those also work with option numbers.
 
-## Features
-  1. select your own csv files
-  2. directly see the dataset inside of the command prompt
-  3. interect with your native language
+## CSV dataset
+   if you want to test this application with dummy csv data file there is two options inbuild.
+   1. items.csv - simple sales report
+   2. sales.csv - sales realted data
+
+   **How to insert csv file to chat**
+   onece you clone this repo to your computer get the exact file path of the csv file
+   it's like *F:\Real\t2t-test*
+   don't insert only the file name. it doesn't recognize the file and file type. 
+
+## Buildin queries
+   in **queries.txt** file. it's include several test queries that you can interact with data data set. be caurefull. this file devide in to two part. first part include **items.csv** related questions and seconde part         related to **sales.csv** dataset. 
