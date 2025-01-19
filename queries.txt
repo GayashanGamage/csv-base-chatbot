@@ -1,0 +1,16 @@
+# queries for sales dataset --------
+1 - සාමාන්ය විකුණුම් ගණනය කරන්න
+2 - මාසයේ සාමාන්‍ය විකුණුම් ගණන සහ වසරේ සාමාන්‍ය විකුණුම් මිල ගණනය කරන්න?
+3 - ලබන වසරේ අප්රේල් මාසයේදී විකුණුම් වැඩිවීමක් අපේක්ෂා කළ හැකිද? එසේ නොවේ නම්, දැනට පවතින මාසික විකුණුම් වලට වඩා විකුණුම් අපේක්ෂා කළ හැකි මාස මොනවාද?
+4 - වැඩිම ලාභ ආන්තිකය ඇති මාසය කුමක්ද?
+5 - What is the average unit cost of sold items across all months?
+6 - calculate the total profit of the year
+7 - explain the sales trend over the month
+
+
+
+
+# queries for sales dataset --------
+1 - wich month is the best selling month of 'samsung s2'
+2 - කුමන දුරකථන මාදිලිය (Samsung S2 හෝ LG Dualsim) 5 වන මාසයේදී වැඩිම ආදායමක් ලබාගත්තේද ?
+3 - Which month had the highest total number of LG Dualsim phones sold?
